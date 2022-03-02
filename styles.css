@@ -42,3 +42,31 @@ h1{
     width: 60%;
     transform: rotate(25deg);
 }
+
+
+#features{
+text-align: center;
+/* width:70%; */
+padding: 7% 12%;
+}
+
+
+.feature-icon{
+    color:#ff4c68;
+    padding-bottom: 20px;
+}
+
+h3{
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+
+.feature-icon:hover{
+    color:#f80355;
+}
+
+.features-box{
+    padding: 5%;
+}
