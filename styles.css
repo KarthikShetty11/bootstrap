@@ -70,3 +70,36 @@ h3{
 .features-box{
     padding: 5%;
 }
+
+#testimonials{
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+h2{
+    font-size: 3rem;
+    line-height: 1.5;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+.testimonial-img{
+    width: 10%;
+    border-radius: 100%;
+}
+
+#press{
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.press-logo{
+    width: 15%;
+    margin: 20px;
+}
+
+.carousel-item{
+    padding: 5% 20%;
+}
