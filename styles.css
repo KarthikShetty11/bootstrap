@@ -48,6 +48,7 @@ h1{
 text-align: center;
 /* width:70%; */
 padding: 7% 12%;
+
 }
 
 
@@ -74,6 +75,7 @@ h3{
 #testimonials{
     background-color: #ff4c68;
     text-align: center;
+    color:white;
 }
 
 h2{
@@ -81,7 +83,6 @@ h2{
     line-height: 1.5;
     font-family: 'Montserrat', sans-serif;
     font-weight: bold;
-    color: white;
 }
 
 .testimonial-img{
@@ -102,4 +103,17 @@ h2{
 
 .carousel-item{
     padding: 5% 20%;
+}
+
+.button-signup{
+    width: 100%;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-card{
+    padding: 3% 2%;
 }
