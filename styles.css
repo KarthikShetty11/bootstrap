@@ -35,7 +35,7 @@ h1{
 }
 
 .download-button{
-    margin: 3% 5% 0% 0%;
+    margin: 2% 3%;
 }
 
 .title-image{
@@ -152,4 +152,12 @@ h2{
 
 #cta{
     background-color: #ff4c68;
+    text-align: center;
+    padding: 30px 0;
+}
+
+#footer{
+    
+    padding: 30px 0;
+    text-align: center;  
 }
