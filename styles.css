@@ -47,12 +47,15 @@ h1{
     right: 20%;
 }
 
+.brand-icon{
+    padding: 5px;
+}
+
 
 #features{
   padding: 5% 10%;
   background-color: white;
   position: relative;
-  
 }
 
 .features-box{
@@ -169,9 +172,12 @@ h2{
 }
 
 
-#footer{
-    
+#footer{ 
     padding: 30px 0;
     text-align: center;  
-    
+    background-color: white;
+}
+
+.copyright{
+padding-top: 20px;
 }
